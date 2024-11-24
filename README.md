@@ -1,7 +1,5 @@
 # Jamnagar Corporation Care
 
-![Logo](github_assets/logo.png)
-
 A complaint registration app for municipal corporations, enabling users to register complaints, track updates, and view dashboards, 
 while the admin app allows employees to manage complaints and HODs to oversee operations.
 
